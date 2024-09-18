@@ -1,3 +1,4 @@
 {
-  "eventUnlock": true
+  "key": "value",
+    "list": [1, 2, 3]
 }
